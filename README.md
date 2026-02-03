@@ -2,6 +2,8 @@
 
 I have crafted numerous applications using a diverse array of tools and frameworks, delivering projects tailored for an extensive range of hardware, including VR/AR headsets, smartphones, tablets, multi-touch tables, motion capture systems, eye-tracking devices, motion platforms, depth cameras, video walls, and smartwatches.
 
+You can check out my portfolio website here: https://grigtod.com/
+
 <!--
 **grigtod/grigtod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
