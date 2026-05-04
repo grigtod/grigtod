@@ -19,7 +19,8 @@ Good reasons to contact me:
  • AI-powered creative tool or physical interface
  • Technical rescue or optimisation for an immersive project
  
-Portfolio: grigtod.com
+Portfolio: https://grigtod.com/
+
 Email: grigtod@gmail.com
 
 <!--
